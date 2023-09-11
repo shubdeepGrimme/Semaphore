@@ -1,6 +1,6 @@
 ---
 - name: Check File
-  hosts: server
+  hosts: all
   become: true
 
   tasks:
